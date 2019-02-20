@@ -7,8 +7,14 @@ Django Deployments Cookbook
 ============================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Table of Contents:
+
+
+   using_zappa_lambda_aurora
+   apex_up_serverless
+   zeit_now_serverless
+   aws_fargate_aurora_serverless
 
 
 
